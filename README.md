@@ -1,6 +1,6 @@
 # Operating Systems Lab (CEC301/CSC301)
 
-Practical file for Operating Systems, B.Tech / B.Sc. (CSE), Third Year. All programs are written in Python 3.
+Practical file for Operating Systems, B.Sc. (CS), Third Year. All programs are written in Python 3.
 
 **Submitted by:** Arnav Gairola | **Roll No.:** 2472020
 
