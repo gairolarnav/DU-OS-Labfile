@@ -8,8 +8,7 @@ B.Sc. (CS) — Third Year
 
 *Programming Language: Python*
 
-*Submitted by :* Arnav Gairola
-*Roll no :* 2472020
+*Submitted by :* Arnav Gairola | *Roll no:* 2472020
 
 ## List of Programs
 
@@ -83,7 +82,7 @@ else:
 ### Execution
 
 ```bash
-python3 fork_exec.py
+python3 process-creation.py
 ```
 
 ### Sample Output
@@ -94,7 +93,7 @@ Parent waiting for child (PID = 4522) to finish...
 Child process: PID = 4522, Parent PID = 4521
 Child is about to exec 'ls -l'
 total 4
--rw-r--r-- 1 user user 817 Sep  3 09:09 fork_exec.py
+-rw-r--r-- 1 user user 817 Sep  3 09:09 process-creation.py
 Child exited with status 0
 Parent process resumes and exits.
 ```
@@ -182,7 +181,7 @@ main()
 ### Execution
 
 ```bash
-python3 thread_sum.py
+python3 thread-creation-and-management.py
 ```
 
 ### Sample Output
@@ -380,7 +379,7 @@ main()
 ### Execution
 
 ```bash
-python3 scheduling.py
+python3 cpu-scheduling-algorithms.py
 ```
 
 ### Sample Output
@@ -503,7 +502,7 @@ print("All items produced and consumed.")
 ### Execution
 
 ```bash
-python3 producer_consumer.py
+python3 process-synchronization-prod-con.py
 ```
 
 ### Sample Output
@@ -611,7 +610,7 @@ w[1].join()
 ### Execution
 
 ```bash
-python3 readers_writers.py
+python3 process-synchronization-read-write.py
 ```
 
 ### Sample Output
@@ -703,7 +702,7 @@ for t in philo:
 ### Execution
 
 ```bash
-python3 dining_philosophers.py
+python3 dining-philosophers-problem.py
 ```
 
 ### Sample Output
@@ -851,7 +850,7 @@ main()
 ### Execution
 
 ```bash
-python3 bankers.py
+python3 bankers-algorithm.py
 ```
 
 ### Sample Output
@@ -982,7 +981,7 @@ main()
 ### Execution
 
 ```bash
-python3 memory_allocation.py
+python3 contiguous-memory-allocation.py
 ```
 
 ### Sample Output
@@ -1144,7 +1143,7 @@ main()
 ### Execution
 
 ```bash
-python3 page_replacement.py
+python3 page-replacement-algorithm.py
 ```
 
 ### Sample Output
@@ -1273,7 +1272,7 @@ main()
 ### Execution
 
 ```bash
-python3 disk_scheduling.py
+python3 disk-scheduling-algorithm.py
 ```
 
 ### Sample Output
@@ -1422,7 +1421,7 @@ main()
 ### Execution
 
 ```bash
-python3 file_allocation.py
+python3 file-allocation-methods.py
 ```
 
 ### Sample Output
