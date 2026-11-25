@@ -39,7 +39,7 @@ For example:
 python3 disk-scheduling-algorithm.py
 ```
 
-Programs 3 and 7 to 11 ask for input at runtime. Sample inputs and outputs are in [OS-Lab-File.md](OS-Lab-File.md).
+Programs 3 and 7 to 11 ask for input at runtime. Sample inputs and outputs are in [OS-Lab-File.md](Lab-File.md).
 
 ## Notes
 
