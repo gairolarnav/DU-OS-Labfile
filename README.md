@@ -21,26 +21,3 @@ The full lab file (aim, theory, code, sample output and viva questions) is in [L
 | 9 | Page replacement: FIFO, LRU and Optimal | `page-replacement-algorithm.py` |
 | 10 | Disk scheduling: FCFS, SSTF, SCAN and C-SCAN | `disk-scheduling-algorithm.py` |
 | 11 | File allocation: Contiguous, Linked and Indexed | `file-allocation-methods.py` |
-
-## Requirements
-
-- Python 3 (tested with 3.12)
-- Program 1 uses `os.fork()`, so it runs on Linux, macOS or WSL, not on native Windows.
-
-## How to run
-
-```bash
-python3 <file-name>.py
-```
-
-For example:
-
-```bash
-python3 disk-scheduling-algorithm.py
-```
-
-Programs 3 and 7 to 11 ask for input at runtime. Sample inputs and outputs are in [OS-Lab-File.md](Lab-File.md).
-
-## Notes
-
-- Programs 2, 4, 5 and 6 use multiple threads, so the order of output lines can change between runs.
